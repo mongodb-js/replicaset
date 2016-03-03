@@ -1,6 +1,6 @@
 # mongodb-replicaset [![travis][travis_img]][travis_url] [![npm][npm_img]][npm_url] [![][inch_img]][inch_url]
 
-> Tools for working with MongoDB replicasets.
+> Models and actions for MongoDB replicasets.
 
 ## License
 

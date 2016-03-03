@@ -8,17 +8,17 @@
     "test": "mocha",
     "ci": "npm run check && npm test"
   },
-  "homepage": "http://github.com/mongodb-js/mongodb-replicaset",
+  "homepage": "http://github.com/mongodb-js/replicaset",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mongodb-js/mongodb-replicaset.git"
+    "url": "git://github.com/mongodb-js/replicaset.git"
   },
   "dependencies": {
     "debug": "^2.2.0",
     "lodash": "^3.10.1",
     "mongodb-instance-model": "^2.1.1",
-    "mongodb-js-errors": "0.0.1",
-    "mongodb-sharding": "^0.1.1"
+    "mongodb-js-errors": "^0.1.0",
+    "mongodb-sharding": "^0.1.4"
   },
   "devDependencies": {
     "eslint-config-mongodb-js": "^1.0.6",
