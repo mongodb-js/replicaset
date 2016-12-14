@@ -14,7 +14,7 @@
     "url": "git://github.com/mongodb-js/replicaset.git"
   },
   "dependencies": {
-    "debug": "^2.2.0",
+    "debug": "^2.4.0",
     "lodash": "^4.16.6",
     "mongodb-instance-model": "^3.3.0",
     "mongodb-js-errors": "^0.3.0",
